@@ -68,5 +68,3 @@ The system uses an **MSSQL Express Edition** database to store all system inform
   - Khong Wei Xian – Promotion Module
   - Chong Jing Yan (me) – Order and Payment Module
   - Stanley Chong Shi Wen – Menu Module
- 
-To understand more about our project, download and read the pdf file.
