@@ -64,7 +64,7 @@ The system uses an **MSSQL Express Edition** database to store all system inform
 # Credits
 - **Team Members**:
   - Chin Wei Lun – Staff Module
-  - Daniel Yong Xian – Customer and Membership Module
-  - Khong Wei Xian – Promotion Module
+  - Daniel Yong Xian (https://github.com/danielyxtar) – Customer and Membership Module
+  - Khong Wei Xian (https://github.com/DINO-KWX) – Promotion Module
   - Chong Jing Yan (me) – Order and Payment Module
   - Stanley Chong Shi Wen – Menu Module
